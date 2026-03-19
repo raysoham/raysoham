@@ -2,8 +2,6 @@ Hey this is Soham
 
 -My standout project here is the basic-mvp-ppline as it has a fully working CI/CD pipeline so check that out
 
--The Java SWING GUI project is elementary and quite outdated
-
 -I like solving problems
 
 -I also like philosophy, anime, video games, and getting enlightened from time to time
