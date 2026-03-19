@@ -4,7 +4,7 @@ Hey this is Soham
 
 -I like solving problems
 
--I also like philosophy, anime, video games, and getting enlightened from time to time
+-I also like philosophy, anime, video games, books and music
 
 -if you wanna know more abt me find me and talk irl
 <!---
